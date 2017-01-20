@@ -1,0 +1,7 @@
+#Wed Jan 18 17:08:16 SGT 2017
+base.0=C\:\\Resources\\android-MediaRecorder-masterGoogle\\android-MediaRecorder-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f6ced3613d0ba4f47bb57e84b41ee28d490a3702
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Resources\\android-MediaRecorder-masterGoogle\\android-MediaRecorder-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ac12139e03e3cf4b0c28f9838eca6a1c0a232868\\classes.dex
+base.1=C\:\\Resources\\android-MediaRecorder-masterGoogle\\android-MediaRecorder-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ac12139e03e3cf4b0c28f9838eca6a1c0a232868
+file.0=C\:\\Resources\\android-MediaRecorder-masterGoogle\\android-MediaRecorder-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f6ced3613d0ba4f47bb57e84b41ee28d490a3702\\classes.dex

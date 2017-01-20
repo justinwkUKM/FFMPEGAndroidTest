@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_eee94764407a52c96c05a4cb102cd5698cfd136b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-25.0.1_7c0291603391040ca7880efb1211716e54021156\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d60cfbd24b04ab2f4c0a0ac227349bc8bef76ee0">
+        <dex dex="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ac12139e03e3cf4b0c28f9838eca6a1c0a232868\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_9ee0c2c4f58b0bf41d57d16e76606f49257f7dbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_53fc478c9f6604e86b3be2008cdf2ab1dd53dfca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Development\Android\SDK\android-sdk_r24.4.1-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_72d44e3277e03b75a65c24e974d91635646a204b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_90ad03e59139a0736a4e47adf3eb4c85b5d54513\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.1_ee4be03a045b80f5a6a249a68b730197a7f5575e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_de31092431ef4487f1e630725923ef3119a3f426\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_b83dcc8c1982797c320fab9794000d6effbe9786\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_d645994f4121bec9ede23741c00151315a6cc224\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_29f547fb073f636ae6aa10539d98cac58e935ad0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d94e640f198dba440a39d5a8341aa8fdbcc78d3b">
+        <dex dex="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f6ced3613d0ba4f47bb57e84b41ee28d490a3702\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_d06ac02f0338e46f896a359255abe85c682c8fdf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_9a699a13261d9bf5c106dbe35f5702534a913e6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_18a0b519bac8c5fbdc5619e8662ccd70c74cad0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_82d30764cc394f166ad2831d684d373eab3979c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_496a754c0c877db929733e0f37006695014253b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_10529d629caee05830b82f204a93de866c86503b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Resources\android-MediaRecorder-masterGoogle\android-MediaRecorder-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_04351cab9881de91b04a9371280cf1b4fdf37615\classes.dex" />
+    </item>
+
+</items>
